@@ -25,7 +25,7 @@ public class calculator {
         int sum = calc.add(10, 5);
         int difference = calc.subtract(10, 5);
         int product = calc.multiply(10, 5);
-        double quotient = calc.divide(10, 5); // ✅ Now using double
+        double quotient = calc.divide(10, 5);
 
         System.out.println("Addition: " + sum);
         System.out.println("Subtraction: " + difference);
